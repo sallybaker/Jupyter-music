@@ -1,4 +1,5 @@
 requests
+nltk
 textblob
 wordcloud
 matplotlib
