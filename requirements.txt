@@ -1,5 +1,5 @@
 requests
 textblob
 wordcloud
-matplotlib.pyplot
+matplotlib
 pandas
