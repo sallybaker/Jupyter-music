@@ -1,0 +1,6 @@
+requests
+random
+textblob
+wordcloud
+matplotlib.pyplot
+pandas
