@@ -1,5 +1,4 @@
 requests
-random.py
 textblob
 wordcloud
 matplotlib.pyplot
