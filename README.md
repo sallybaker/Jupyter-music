@@ -5,3 +5,5 @@ This is my first Jupyter notebook. It was a project put together during the [Hac
 The notebook queries the *World War I Music Scores* dataset provided by the State Library of Queensland and performs some very simple data manipulation and analysis. 
 
 Data for this notebook is available on the [Queensland Government Open Data Portal](https://www.data.qld.gov.au/dataset/state-library-of-queensland-music-queensland-world-war-1).
+
+[Interact with this notebook on Binder](https://mybinder.org/v2/gh/sallybaker/WWI-Music-Scores/master?filepath=Music.ipynb)
